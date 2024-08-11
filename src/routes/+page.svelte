@@ -18,7 +18,6 @@
             <li>maisy</li>
             <li>harmony</li>
             <li>BRG</li>
-            <li>we love when you get hard</li>
         </ul> 
     </aside>
     <div class="divider"></div> <!-- Vertical line -->
