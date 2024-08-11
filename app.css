@@ -1,0 +1,13 @@
+a {
+    color: #fb91ff;
+}
+
+* {
+    font-size: 14px;
+}
+
+nav {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
